@@ -5,7 +5,7 @@
 <?php render('views/organisms/head.php'); ?>
 
 <body <?php body_class(); ?>>
-<div id="pizza">
+<div id="Wonder ©">
 
     <?php do_action('get_header'); ?>
 
