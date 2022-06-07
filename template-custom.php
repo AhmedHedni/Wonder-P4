@@ -71,9 +71,9 @@ render('views/templates/custom.php', compact('title', 'content'));
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class = "fas fa-star-half-alt"></i>
                     </div>
                 </div>
 
@@ -81,254 +81,12 @@ render('views/templates/custom.php', compact('title', 'content'));
                     <div class="review-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
                     </div>
-                    <div><a href="https://www.dermarolling.nl/product-categorie/gezicht/beauty-tools/dermarollers/">Toon meer...</a></div>
+                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
 
             </div>
 
 
                         <!--BOX-2-->
-                        <div class="review-box">
-                <div class="box-top">
-                    <!--profile-->
-                    <div class="profile">
-                        
-                    </div>
-                    <!--img-->
-                    <div class="profile-img">
-                        <img src="<?php echo $img2; ?>" alt="">
-                    </div>
-                    <!--name-and-username-->
-                    <div class="name-user">
-                        <strong>Niko Omilana</strong>
-                        <span>@niko</span>
-                    </div>
-
-                    <!--reviews-->
-                    <div class="reviews">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                    </div>
-                </div>
-
-                    <!--review-text-->
-                    <div class="review-text">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
-                    </div>
-                    <div><a href="https://www.dermarolling.nl/product-categorie/gezicht/beauty-tools/dermarollers/">Toon meer...</a></div>
-            </div>
-
-                        <!--BOX-3-->
-                        <div class="review-box">
-                <div class="box-top">
-                    <!--profile-->
-                    <div class="profile">
-                        
-                    </div>
-                    <!--img-->
-                    <div class="profile-img">
-                        <img src="<?php echo $img; ?>" alt="">
-                    </div>
-                    <!--name-and-username-->
-                    <div class="name-user">
-                        <strong>Demarcus Cousins</strong>
-                        <span>@demarcuscousins</span>
-                    </div>
-
-                    <!--reviews-->
-                    <div class="reviews">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                    </div>
-                </div>
-
-                    <!--review-text-->
-                    <div class="review-text">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
-                    </div>
-                    <div><a href="https://www.dermarolling.nl/product-categorie/gezicht/beauty-tools/dermarollers/">Toon meer...</a></div>
-            </div>
-
-                        <!--BOX-4-->
-                        <div class="review-box">
-                <div class="box-top">
-                    <!--profile-->
-                    <div class="profile">
-                        
-                    </div>
-                    <!--img-->
-                    <div class="profile-img">
-                        <img src="<?php echo $img2; ?>" alt="">
-                    </div>
-                    <!--name-and-username-->
-                    <div class="name-user">
-                        <strong>Niko Omilana</strong>
-                        <span>@niko</span>
-                    </div>
-
-                    <!--reviews-->
-                    <div class="reviews">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                    </div>
-                </div>
-
-                    <!--review-text-->
-                    <div class="review-text">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
-                    </div>
-                    <div><a href="https://www.dermarolling.nl/product-categorie/gezicht/beauty-tools/dermarollers/">Toon meer...</a></div>
-
-                                </div>
-
-
-                        <!--BOX-5-->
-                        <div class="review-box">
-                <div class="box-top">
-                    <!--profile-->
-                    <div class="profile">
-                        
-                    </div>
-                    <!--img-->
-                    <div class="profile-img">
-                        <img src="<?php echo $img; ?>" alt="">
-                    </div>
-                    <!--name-and-username-->
-                    <div class="name-user">
-                        <strong>Demarcus Cousins</strong>
-                        <span>@demarcuscousins</span>
-                    </div>
-
-                    <!--reviews-->
-                    <div class="reviews">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                    </div>
-                </div>
-
-                    <!--review-text-->
-                    <div class="review-text">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
-                    </div>
-                    <div><a href="https://www.dermarolling.nl/product-categorie/gezicht/beauty-tools/dermarollers/">Toon meer...</a></div>
-
-                                </div>
-
-
-                        <!--BOX-6-->
-                        <div class="review-box">
-                <div class="box-top">
-                    <!--profile-->
-                    <div class="profile">
-                        
-                    </div>
-                    <!--img-->
-                    <div class="profile-img">
-                        <img src="<?php echo $img2; ?>" alt="">
-                    </div>
-                    <!--name-and-username-->
-                    <div class="name-user">
-                        <strong>Niko Omilana</strong>
-                        <span>@niko</span>
-                    </div>
-
-                    <!--reviews-->
-                    <div class="reviews">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                    </div>
-                </div>
-
-                    <!--review-text-->
-                    <div class="review-text">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
-                    </div>
-                    <div><a href="https://www.dermarolling.nl/product-categorie/gezicht/beauty-tools/dermarollers/">Toon meer...</a></div>
-
-                                </div>
-
-
-                        <!--BOX-7-->
-                        <div class="review-box">
-                <div class="box-top">
-                    <!--profile-->
-                    <div class="profile">
-                        
-                    </div>
-                    <!--img-->
-                    <div class="profile-img">
-                        <img src="<?php echo $img; ?>" alt="">
-                    </div>
-                    <!--name-and-username-->
-                    <div class="name-user">
-                        <strong>Demarcus Cousins</strong>
-                        <span>@demarcuscousins</span>
-                    </div>
-
-                    <!--reviews-->
-                    <div class="reviews">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                    </div>
-                </div>
-
-                    <!--review-text-->
-                    <div class="review-text">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
-                    </div>
-                    <div><a href="https://www.dermarolling.nl/product-categorie/gezicht/beauty-tools/dermarollers/">Toon meer...</a></div>
-
-                                </div>
-
-
-                        <!--BOX-8-->
                         <div class="review-box">
                 <div class="box-top">
                     <!--profile-->
@@ -354,9 +112,9 @@ render('views/templates/custom.php', compact('title', 'content'));
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class = "fas fa-star-half-alt"></i>
                     </div>
                 </div>
 
@@ -364,9 +122,248 @@ render('views/templates/custom.php', compact('title', 'content'));
                     <div class="review-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
                     </div>
-                    <div><a href="https://www.dermarolling.nl/product-categorie/gezicht/beauty-tools/dermarollers/">Toon meer...</a></div>
+                    <div><a href="../wp-dough-main/template-beoordeling.php">Toon meer...</a></div>
+            </div>
+
+                        <!--BOX-3-->
+                        <div class="review-box">
+                <div class="box-top">
+                    <!--profile-->
+                    <div class="profile">
+                        
+                    </div>
+                    <!--img-->
+                    <div class="profile-img">
+                        <img src="<?php echo $img; ?>" alt="">
+                    </div>
+                    <!--name-and-username-->
+                    <div class="name-user">
+                        <strong>Demarcus Cousins</strong>
+                        <span>@demarcuscousins</span>
+                    </div>
+
+                    <!--reviews-->
+                    <div class="reviews">
+                    <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class = "fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+
+                    <!--review-text-->
+                    <div class="review-text">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
+                    </div>
+                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
+            </div>
+
+                        <!--BOX-4-->
+                        <div class="review-box">
+                <div class="box-top">
+                    <!--profile-->
+                    <div class="profile">
+                        
+                    </div>
+                    <!--img-->
+                    <div class="profile-img">
+                        <img src="<?php echo $img2; ?>" alt="">
+                    </div>
+                    <!--name-and-username-->
+                    <div class="name-user">
+                        <strong>Niko Omilana</strong>
+                        <span>@niko</span>
+                    </div>
+
+                    <!--reviews-->
+                    <div class="reviews">
+                    <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class = "fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+
+                    <!--review-text-->
+                    <div class="review-text">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
+                    </div>
+                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
 
                                 </div>
+
+
+                        <!--BOX-5-->
+                        <div class="review-box">
+                <div class="box-top">
+                    <!--profile-->
+                    <div class="profile">
+                        
+                    </div>
+                    <!--img-->
+                    <div class="profile-img">
+                        <img src="<?php echo $img; ?>" alt="">
+                    </div>
+                    <!--name-and-username-->
+                    <div class="name-user">
+                        <strong>Demarcus Cousins</strong>
+                        <span>@demarcuscousins</span>
+                    </div>
+
+                    <!--reviews-->
+                    <div class="reviews">
+                    <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class = "fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+
+                    <!--review-text-->
+                    <div class="review-text">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
+                    </div>
+                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
+                </div>
+
+
+                        <!--BOX-6-->
+                        <div class="review-box">
+                <div class="box-top">
+                    <!--profile-->
+                    <div class="profile">
+                        
+                    </div>
+                    <!--img-->
+                    <div class="profile-img">
+                        <img src="<?php echo $img2; ?>" alt="">
+                    </div>
+                    <!--name-and-username-->
+                    <div class="name-user">
+                        <strong>Niko Omilana</strong>
+                        <span>@niko</span>
+                    </div>
+
+                    <!--reviews-->
+                    <div class="reviews">
+                    <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class = "fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+
+                    <!--review-text-->
+                    <div class="review-text">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
+                    </div>
+                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
+                </div>
+
+
+                        <!--BOX-7-->
+                        <div class="review-box">
+                <div class="box-top">
+                    <!--profile-->
+                    <div class="profile">
+                        
+                    </div>
+                    <!--img-->
+                    <div class="profile-img">
+                        <img src="<?php echo $img; ?>" alt="">
+                    </div>
+                    <!--name-and-username-->
+                    <div class="name-user">
+                        <strong>Demarcus Cousins</strong>
+                        <span>@demarcuscousins</span>
+                    </div>
+
+                    <!--reviews-->
+                    <div class="reviews">
+                    <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class = "fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+
+                    <!--review-text-->
+                    <div class="review-text">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
+                    </div>
+                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
+                </div>
+
+
+                        <!--BOX-8-->
+                        <div class="review-box">
+                <div class="box-top">
+                    <!--profile-->
+                    <div class="profile">
+                        
+                    </div>
+                    <!--img-->
+                    <div class="profile-img">
+                        <img src="<?php echo $img2; ?>" alt="">
+                    </div>
+                    <!--name-and-username-->
+                    <div class="name-user">
+                        <strong>Niko Omilana</strong>
+                        <span>@niko</span>
+                    </div>
+
+                    <!--reviews-->
+                    <div class="reviews">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class = "fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+
+                    <!--review-text-->
+                    <div class="review-text">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
+                    </div>
+                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
+                 </div>
 
 
                         <!--BOX-9-->
@@ -388,6 +385,7 @@ render('views/templates/custom.php', compact('title', 'content'));
 
                     <!--reviews-->
                     <div class="reviews">
+                    <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -395,9 +393,8 @@ render('views/templates/custom.php', compact('title', 'content'));
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
-                        <i class="far fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class = "fas fa-star-half-alt"></i>
                     </div>
                 </div>
 
@@ -405,8 +402,8 @@ render('views/templates/custom.php', compact('title', 'content'));
                     <div class="review-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
                     </div>
-                    <div><a href="https://www.dermarolling.nl/product-categorie/gezicht/beauty-tools/dermarollers/">Toon meer...</a></div>
-            </div>
+                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
+                </div>
         </div>
     </section>
 </body>

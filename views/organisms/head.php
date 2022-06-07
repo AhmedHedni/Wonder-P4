@@ -5,9 +5,11 @@
 
     <!-- STYLESHEETS -->
     <link href="<?php echo get_stylesheet_directory_uri() . '/assets/css/style.css'; ?>" rel="stylesheet">
+    <link href="<?php echo get_stylesheet_directory_uri() . '/assets/css/review.css'; ?>" rel="stylesheet">
 
     <!-- JAVASCRIPT -->
     <script src="<?php echo get_stylesheet_directory_uri() . '/assets/js/script.js'; ?>" type="text/javascript"></script>
+    <script src="<?php echo get_stylesheet_directory_uri() . '/assets/js/review.js'; ?>" type="text/javascript"></script>
 
     <?php wp_head(); ?>
 
