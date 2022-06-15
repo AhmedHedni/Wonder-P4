@@ -1,17 +1,17 @@
 <?php
 
-add_action('init', 'tomaatPostType');
+add_action('init', 'reviewsPostType');
 
-function tomaatPostType()
+function ReviewsPostType()
 {
     $args = [
         'labels' => [
-            'name' => 'Tomaat',
-            'singular_name' => 'Tomaat',
-            'all_items' => 'Al het tomaat',
-            'edit_item' => 'Tomaat bewerken',
-            'add_new' => 'Tomaat aanmaken',
-            'add_new_item' => 'Tomaat toevoegen',
+            'name' => 'Reviews',
+            'singular_name' => 'Reviews',
+            'all_items' => 'Alle reviews',
+            'edit_item' => 'Reviews bewerken',
+            'add_new' => 'Reviews aanmaken',
+            'add_new_item' => 'Reviews toevoegen',
         ],
         'publicly_queryable' => true,
         'exclude_from_search' => false,
@@ -27,11 +27,11 @@ function tomaatPostType()
             'editor',
         ],
         'rewrite' => [
-            'slug' => 'nieuws',
+            'slug' => 'reviews',
         ],
     ];
 
-    \register_post_type('tomaat', $args);
+    \register_post_type('reviews', $args);
 
 }
 

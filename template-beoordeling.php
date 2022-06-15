@@ -12,6 +12,8 @@ $img3 = get_stylesheet_directory_uri() . '/assets/img/c-3.jpg';
 $img4 = get_stylesheet_directory_uri() . '/assets/img/c-4.jpg';
 $img5 = get_stylesheet_directory_uri() . '/assets/img/c-5.jpg';
 $img6 = get_stylesheet_directory_uri() . '/assets/img/c-6.jpg';
+$img7 = get_stylesheet_directory_uri() . '/assets/img/c-7.png';
+
 
 render('views/templates/custom.php', compact('title', 'content'));
 
@@ -34,7 +36,15 @@ render('views/templates/custom.php', compact('title', 'content'));
 <script src="https://kit.fontawesome.com/c8e4d183c2.js" crossorigin="anonymous"></script>
   </head>
   <body>
-    
+    <div class="header">
+      <nav id="navbar">
+          <ul id="menu">
+           <a href="http://wordpress.les/homepage/"><strong><li>HOME</li></strong></a> 
+           <a href="http://wordpress.les/homepage/"><strong><li>OVERZICHTSPAGINA</li></strong></a> 
+           <a href="http://wordpress.les/homepage/"><strong><li>LOGIN</li></strong></a> 
+          </ul>
+      </nav>
+    </div>
     <div class = "card-wrapper">
       <div class = "card">
         <!-- card left -->
@@ -113,5 +123,19 @@ render('views/templates/custom.php', compact('title', 'content'));
 
     
     <script src="./assets/js/review.js"></script>
+
+    <script>
+      var navbar = document.getElementById("navbar")
+      var menu = document.getElementById("menu")
+
+      window.onscroll = function(){
+        if(window.pageYOffset >= menu.offsetTop) {
+          navbar.classList.add("sticky");
+        }
+        else{
+          navbar.classList.remove("sticky");
+        }
+      }
+    </script>
   </body>
 </html>

@@ -81,7 +81,7 @@ render('views/templates/custom.php', compact('title', 'content'));
                     <div class="review-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
                     </div>
-                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
+                    <div><a href="http://wordpress.les/beoordelingspagina/">Toon meer...</a></div>
 
             </div>
 
@@ -122,7 +122,7 @@ render('views/templates/custom.php', compact('title', 'content'));
                     <div class="review-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
                     </div>
-                    <div><a href="../wp-dough-main/template-beoordeling.php">Toon meer...</a></div>
+                    <div><a href="http://wordpress.les/beoordelingspagina/">Toon meer...</a></div>
             </div>
 
                         <!--BOX-3-->
@@ -161,7 +161,7 @@ render('views/templates/custom.php', compact('title', 'content'));
                     <div class="review-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
                     </div>
-                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
+                    <div><a href="http://wordpress.les/beoordelingspagina/">Toon meer...</a></div>
             </div>
 
                         <!--BOX-4-->
@@ -200,7 +200,7 @@ render('views/templates/custom.php', compact('title', 'content'));
                     <div class="review-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
                     </div>
-                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
+                    <div><a href="http://wordpress.les/beoordelingspagina/">Toon meer...</a></div>
 
                                 </div>
 
@@ -241,7 +241,7 @@ render('views/templates/custom.php', compact('title', 'content'));
                     <div class="review-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
                     </div>
-                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
+                    <div><a href="http://wordpress.les/beoordelingspagina/">Toon meer...</a></div>
                 </div>
 
 
@@ -281,7 +281,7 @@ render('views/templates/custom.php', compact('title', 'content'));
                     <div class="review-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
                     </div>
-                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
+                    <div><a href="http://wordpress.les/beoordelingspagina/">Toon meer...</a></div>
                 </div>
 
 
@@ -321,7 +321,7 @@ render('views/templates/custom.php', compact('title', 'content'));
                     <div class="review-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
                     </div>
-                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
+                    <div><a href="http://wordpress.les/beoordelingspagina/">Toon meer...</a></div>
                 </div>
 
 
@@ -362,7 +362,7 @@ render('views/templates/custom.php', compact('title', 'content'));
                     <div class="review-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
                     </div>
-                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
+                    <div><a href="http://wordpress.les/beoordelingspagina/">Toon meer...</a></div>
                  </div>
 
 
@@ -402,7 +402,7 @@ render('views/templates/custom.php', compact('title', 'content'));
                     <div class="review-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellendus culpa cum, vero, fugiat ea quo fugit praesentium quis ratione corrupti suscipit eveniet corporis animi in inventore ex ipsum aperiam!</p>
                     </div>
-                    <div><a href="./template-beoordeling.php">Toon meer...</a></div>
+                    <div><a href="http://wordpress.les/beoordelingspagina/">Toon meer...</a></div>
                 </div>
         </div>
     </section>
